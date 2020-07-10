@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">开始漂亮的播放</string>
+    <string name="clear_input">删除输入</string>
+    <string name="clear_urls">清空播放串</string>
+    <string name="url">请输出你很香的播放串，暂时有bug</string>
+</resources>
